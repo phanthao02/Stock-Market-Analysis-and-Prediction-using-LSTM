@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-and-Prediction-using-LSTM
+# Stock Market Analysis and Prediction using LSTM
 
 This repository contains code for preprocessing, exploratory data analysis (EDA), and prediction of stock market closing prices using the Long Short-Term Memory (LSTM) model. The following steps were performed to accomplish this:
 
